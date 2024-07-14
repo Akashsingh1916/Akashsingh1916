@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+
 # Hi there! I'm Akash Singh 👋
 
 
