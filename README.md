@@ -1,4 +1,3 @@
-
 # Hi there! I'm Akash Singh 👋
 
 
@@ -8,12 +7,15 @@ Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming compl
 
 
 ## 🛠 Skills
+
 Excel, Power BI, SQL, Python
+
+
 
 ## 🔗 Useful Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Akash-Singh)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-dataanalyst/)
 
-reach out to me - singhakash2016dgp@gmail.com
+Reach out to me - singhakash2016dgp@gmail.com
 
